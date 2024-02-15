@@ -1,2 +1,2 @@
 Bogazici University 2024
-COURSE PHYS-198 - Numerical Methods in Physics
+COURSE PHYS-198\nNumerical Methods in Physics
